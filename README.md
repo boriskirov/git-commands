@@ -4,11 +4,12 @@ List of handy git commands for efficient and fast way of working
 ### Setup
 Configuring user information used across all local repositories
 
-`git config --global user.name "Name"` - configure global author name for all your commits  
-`git config --global user.email "email"` - configure global email for all your commits  
-`git config user.name "Name"` - configure repo only author name for all your commits  
-`git config user.email "email"` - configure repo only email for all your commits  
-
+| Command      | Description | 
+| :---        |    :----   |
+| `git config --global user.name "Name"`    |  configure global author name for all your commits      |
+| `git config --global user.email "email"`    |  configure global email for all your commits        |
+| `git config user.name "Name"`    |  configure repo only author name for all your commits  |
+| `git config user.email "email"`    |  configure repo only email for all your commits        |
 
 ### Setup & Init
 Configuring user information, initializing and cloning 
