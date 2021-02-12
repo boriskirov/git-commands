@@ -45,6 +45,13 @@ Configuring user information, initializing and cloning
 | `git checkout -b [branch-name]`   |  create a new branch and switch to it         |
 | `git checkout -d [branch-name]`  |   - delete the branch          |
 
+### Merging
+If you want to merge to main, please do `git checkout main` and then merge
+
+| Command      | Description | 
+| :---        |    :----   |
+| `git merge [branch-name]`  |  merge [branch-name] to current branch         |
+| `git merge --squash [branch-name]`   |  merge [branch-name] into another as a single commit        |
 
 ### Update from remote repo
 | Command      | Description | 
