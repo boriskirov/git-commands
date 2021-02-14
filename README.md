@@ -69,6 +69,17 @@ If you want to merge to main, please do `git checkout main` and then merge
 | `git tag -d v1.0.0`    |   delete a tag           |
 
 
+### Aliases
+Git custom aliases shorcuts 
+
+| Command      | Description | 
+| :---        |    :----   |
+| `vim ~/.gitconfig`  |  enter your gitconfig          |
+| `git bk`    |   `config user.name "name"` setup            |
+| `git bkemail`    |   `config user.email "email"` setup            |
+
+
+
 ### Resources
 [Github](https://education.github.com/git-cheat-sheet-education.pdf)  
 [Git](https://git-scm.com/)  
