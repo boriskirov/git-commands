@@ -65,7 +65,8 @@ If you want to merge to main, please do `git checkout main` and then merge
 | Command      | Description | 
 | :---        |    :----   |
 | `git tag`  |  list all the tags          |
-| `git tag -a v1.0.0 <commitID> -m 1.0.0`    |   tag a commit           |
+| `git tag -a v1.0.0 -m "message"`    |   tag a commit, note the version and the message        |
+| `git push origin --tags`    |   commit tags        |
 | `git tag -d v1.0.0`    |   delete a tag           |
 
 
