@@ -10,6 +10,7 @@ Configuring user information used across all local repositories
 | `git config --global user.email "email"`    |  configure global email for all your commits        |
 | `git config user.name "Name"`    |  configure repo only author name for all your commits  |
 | `git config user.email "email"`    |  configure repo only email for all your commits        |
+| `git config --list`    |  list and show Git config settings        |
 
 ### Setup & Init
 Configuring user information, initializing and cloning 
