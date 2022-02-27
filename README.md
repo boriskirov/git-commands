@@ -45,6 +45,7 @@ Configuring user information, initializing and cloning
 | `git checkout [branch-name]`   |  to switch from one branch to another          |
 | `git checkout -b [branch-name]`   |  create a new branch and switch to it         |
 | `git checkout -d [branch-name]`  |   - delete the branch          |
+| `git branch -a`  |   - list all branches in a repo |
 
 ### Merging
 If you want to merge to main, please do `git checkout main` and then merge
