@@ -80,7 +80,7 @@ Git custom aliases shorcuts
 | `vim ~/.gitconfig`  |  enter your gitconfig          |
 | `git bk`    |   `config user.name "name"` setup            |
 | `git bkemail`    |   `config user.email "email"` setup            |
-| `gopush` |  `'f() { git add . && git commit -m "$1" && git push; }; f'`|
+| `ghpush` |  `'f() { git add . && git commit -m "$1" && git push; }; f'`|
 
 
 
